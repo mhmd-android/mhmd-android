@@ -17,7 +17,7 @@
 </p>
 
 ### Socials
-<p align="left"> <a href="https://github.com/mhmd-android" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> <a href="www.linkedin.com/in/mohamad-rezaei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a> <a href="https://stackoverflow.com/users/11552276/mohamad-rezaei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="50" height="50" /></a></p>
+<p align="left"> <a href="https://github.com/mhmd-android" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> <a href="https://linkedin.com/in/mohamad-rezaei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a> <a href="https://stackoverflow.com/users/11552276/mohamad-rezaei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="50" height="50" /></a></p>
 
 ## 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/mohamad-email%20me-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=mohamadrezaei18@gmail.com)
