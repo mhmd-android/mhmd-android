@@ -4,8 +4,6 @@
 
 <h3> 🧑 I'm a Software & Android developer </h3>
 
-* 🤝  I'm open to collaborating on any challenging and interesting project or remote job
-
 ### Skills
 <p align="left">
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25709266/166871551-0161af55-dee0-43b1-8a49-0577e49931ea.svg" width="50" height="50" alt="Android" /></a>
